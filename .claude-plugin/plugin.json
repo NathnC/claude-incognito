@@ -1,0 +1,10 @@
+{
+  "name": "incognito",
+  "description": "Incognito mode for Claude Code: /incognito blocks memory and CLAUDE.md writes and deletes the session's transcript, prompt history and per-session files when it ends.",
+  "version": "0.1.0",
+  "author": { "name": "NathnC" },
+  "license": "MIT",
+  "repository": "https://github.com/NathnC/claude-incognito",
+  "homepage": "https://github.com/NathnC/claude-incognito#readme",
+  "keywords": ["privacy", "incognito", "memory", "history", "session"]
+}

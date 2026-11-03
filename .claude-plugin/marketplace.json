@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "claude-incognito",
+  "description": "Incognito mode for Claude Code",
+  "owner": { "name": "NathnC" },
+  "plugins": [
+    {
+      "name": "incognito",
+      "description": "/incognito: no memories, no CLAUDE.md edits, and the session's transcript and history are deleted when it ends.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
